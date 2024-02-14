@@ -1,0 +1,23 @@
+.heading {
+    background-color: rgb(173, 230, 184);
+    height: 60px;
+    padding-top: 15px;
+    font-weight: 800;
+    font-size: 23;
+    width: 100%;
+}
+
+body {
+    background-position: center;
+    background-size: cover;
+}
+
+.images{
+    margin-top: 70px;
+    background-color: burlywood;
+    width: 30%;
+    height: 235px;
+    padding-top: 10px;
+    border-radius: 15px;
+    font-size: 15px;
+}
